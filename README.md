@@ -34,4 +34,6 @@ figure.add_trace(go.Scatter(x=data['timestamp'], y=data['w'], name='W'))
 
 3. Run with `python3 plot.py`.
 
+4. See your graph in a browser.
 
+![Graph](img/screenshot.png)
